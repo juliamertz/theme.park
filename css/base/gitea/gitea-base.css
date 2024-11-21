@@ -229,6 +229,10 @@ b:hover,
     background: rgba(var(--accent-color), .5);
 }
 
+.secondary-nav {
+    background: var(--modal-bg-color) !important;
+}
+
 .following.bar.light {
     background-color: transparent;
     border-bottom: 1px solid transparent;
