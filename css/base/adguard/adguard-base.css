@@ -630,7 +630,7 @@ select:focus {
 /* MOBILE */
 @media (max-width: 767px) {
     .mobile-menu {
-        background: #1b1b1b !important;
+        background: var(--modal-footer-color) !important;
     }
 
     .dropdown-menu {
@@ -652,7 +652,7 @@ select:focus {
 
 @media (max-width: 991px) {
     .mobile-menu {
-        background: #1b1b1b !important;
+        background: var(--modal-footer-color) !important;
     }
 
     .dropdown-menu {
